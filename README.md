@@ -8,7 +8,7 @@ UBJSON Serializing and Deserializing Library in C#
 "Draft10" implements a hypothetical version of draft 10 spes for UBJSON that I am proposing/considering.
 
 In the near future I will be:
-- adding a number of unit tests for draft 9 to add as much coverage as I can for potential edge cases
+- adding a number of additional unit tests for draft 9 to add as much extra coverage as I can for potential edge cases
 - adding serialization of STC array and object types (as appropriate for input types) in draft 10
 - adding extensive unit test coverage for draft 10 to cover the STC array and object types
 - exploring a refactoring of the serializing and deserializing classes to perhaps structure things a bit more object-y -- we'll see
