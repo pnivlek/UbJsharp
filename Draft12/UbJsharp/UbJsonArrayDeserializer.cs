@@ -6,7 +6,7 @@ using System.Text;
 
 namespace UbJsharp
 {
-    public class UbJsonDeserializer : IUbJsonDeserializer
+    public class UbJsonArrayDeserializer : IUbJsonDeserializer
     {
         public object Deserialize(byte[] bytes)
         {

@@ -9,4 +9,3 @@ This is a hard fork of rogusdev's [ubjson-sharp](https://github.com/rogusdev/ubj
 
 TODO:
  - Support serialization.
- - Support deserialization from a Stream.

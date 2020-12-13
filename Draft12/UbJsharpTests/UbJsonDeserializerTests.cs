@@ -53,7 +53,7 @@ namespace UbJsharpTests
         [SetUp]
         public void Setup()
         {
-            _deserializer = new UbJsonDeserializer();
+            _deserializer = new UbJsonArrayDeserializer();
         }
 
         #region "value type deserialization"
